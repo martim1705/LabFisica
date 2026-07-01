@@ -7,14 +7,7 @@ typedef enum App {
     SIMULATION
 } App;
 
-void initApp(App app) {
-    if (!app) {
-        // MENU
+void initApp(App app);
 
-    } else {
-        // SIM
-        
-    }
-}
 
 #endif
